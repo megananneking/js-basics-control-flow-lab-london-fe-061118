@@ -17,5 +17,11 @@ function ternaryCheckCity(city) {
   if (city = 'NYC') {
     response = "Ok, sounds good."
   }
+  if (city = 'NYC') {
+    response = "Ok, sounds good."
+  }
+  if (city = 'NYC') {
+    response = "Ok, sounds good."
+  }
   return response
 }
