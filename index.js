@@ -1,7 +1,7 @@
 function scuberGreetingForFeet(someNumber) {
   let fare
   if (someNumber < 199) {
-    
+    fare = "This one is on me!"
   }
 }
 
