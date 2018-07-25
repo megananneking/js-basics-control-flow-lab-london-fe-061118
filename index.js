@@ -3,6 +3,12 @@ function scuberGreetingForFeet(someNumber) {
   if (someNumber < 199) {
     fare = "This one is on me!"
   }
+  if (someNumber < 199) {
+    fare = "This one is on me!"
+  }
+  if (someNumber < 199) {
+    fare = "This one is on me!"
+  }
 }
 
 
