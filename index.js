@@ -6,7 +6,7 @@ function scuberGreetingForFeet(distance) {
   else if (distance > 2000) {
     fare = "I will gladly take your thirty bucks."
   }
-  else if (distance > 2501) {
+  else if (distance > 2500) {
     fare = "No can do."
   }
   return fare
