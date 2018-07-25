@@ -1,17 +1,18 @@
 function scuberGreetingForFeet(distance) {
-  let fare
+  let greeting
   if (distance < 400) {
-    fare = "This one is on me!"
+    greeting = "This one is on me!"
   }
   else if (distance > 2500) {
-    fare = "No can do."
+    greeting = "No can do."
   }
   else if (distance > 2000) {
-    fare = "I will gladly take your thirty bucks."
+    greeting = "I will gladly take your thirty bucks."
   }
-  return fare
+  return greeting
 }
 
 function ternaryCheckCity(city) {
-  
+  let response
+  if 
 }
