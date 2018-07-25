@@ -1,13 +1,7 @@
 function scuberGreetingForFeet(someNumber) {
   let result
-  if (someNumber < 199) {
+  if (scuberGreetingForFeet(199)).to.equal('This one is on me!') {
     result = 0;
   }
   return result
-}
-
-
-function scuberGreetingForFeet(someNumber) {
-  (scuberGreetingForFeet(199)).to.equal('This one is on me!');
-  
 }
