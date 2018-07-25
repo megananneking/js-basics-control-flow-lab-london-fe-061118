@@ -14,5 +14,4 @@ function scuberGreetingForFeet(distance) {
 
 function ternaryCheckCity(city) {
   let response
-  if 
 }
