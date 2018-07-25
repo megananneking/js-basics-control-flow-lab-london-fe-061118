@@ -1,6 +1,6 @@
 function scuberGreetingForFeet(someNumber) {
   let result
-  if (someNumber < 0) {
+  if (someNumber < 199) {
     result = 0;
   }
   return result
