@@ -11,3 +11,4 @@ function scuberGreetingForFeet(distance) {
   }
   return fare
 }
+
