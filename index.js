@@ -1,5 +1,8 @@
 function scuberGreetingForFeet() {
-  let 
-  if ( < 400)
+  let result
+  if ( < 400) {
+    result = X 
+  }
+  return result
 }
 
