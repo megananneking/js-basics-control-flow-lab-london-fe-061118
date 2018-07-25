@@ -33,5 +33,8 @@ function switchOnCharmFromTip(tip) {
   else if (tip = 'not as generous') {
     charm = "Thank you."
   }
+  else if (tip = '') {
+    charm = "Bye."
+  }
   return charm
 }
