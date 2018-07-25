@@ -12,6 +12,7 @@ function scuberGreetingForFeet(distance) {
   return greeting
 }
 
+
 function ternaryCheckCity(city) {
   let response
   if (city = 'NYC') {
@@ -22,6 +23,7 @@ function ternaryCheckCity(city) {
   }
   return response
 }
+
 
 function switchOnCharmFromTip(tip) {
   let charm
