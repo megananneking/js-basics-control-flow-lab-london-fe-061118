@@ -8,6 +8,6 @@ function scuberGreetingForFeet(someNumber) {
 
 
 function scuberGreetingForFeet(someNumber) {
-  expect(scuberGreetingForFeet(199)).to.equal('This one is on me!');
+  (scuberGreetingForFeet(199)).to.equal('This one is on me!');
   
 }
