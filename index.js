@@ -17,7 +17,7 @@ function ternaryCheckCity(city) {
   if (city = 'NYC') {
     response = "Ok, sounds good."
   }
-  else if () {
+  else if (city != 'NYC') {
     response = "No go."
   }
   return response
@@ -31,7 +31,7 @@ function switchOnCharmFromTip(tip) {
   else if (tip = 'not as generous') {
     charm = "Thank you."
   }
-  else if () {
+  else if (tip = '') {
     charm = "Bye."
   }
   return charm
