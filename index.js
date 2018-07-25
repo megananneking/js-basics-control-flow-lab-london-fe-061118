@@ -12,4 +12,6 @@ function scuberGreetingForFeet(distance) {
   return fare
 }
 
-function ternaryCheckCity()
+function ternaryCheckCity(city) {
+  
+}
